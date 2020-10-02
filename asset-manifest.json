@@ -1,0 +1,39 @@
+{
+  "files": {
+    "app.js": "/InformAl/static/js/app.07e5e73b.chunk.js",
+    "app.js.map": "/InformAl/static/js/app.07e5e73b.chunk.js.map",
+    "runtime~app.js": "/InformAl/static/js/runtime~app.ba78eca5.js",
+    "runtime~app.js.map": "/InformAl/static/js/runtime~app.ba78eca5.js.map",
+    "static/js/2.b908238a.chunk.js": "/InformAl/static/js/2.b908238a.chunk.js",
+    "static/js/2.b908238a.chunk.js.map": "/InformAl/static/js/2.b908238a.chunk.js.map",
+    "fonts/AntDesign.ttf": "/InformAl/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/InformAl/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/InformAl/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/InformAl/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/InformAl/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/InformAl/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/InformAl/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/InformAl/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/InformAl/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/InformAl/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/InformAl/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/InformAl/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/InformAl/favicon-16.png",
+    "favicon-32.png": "/InformAl/favicon-32.png",
+    "favicon.ico": "/InformAl/favicon.ico",
+    "index.html": "/InformAl/index.html",
+    "manifest.json": "/InformAl/manifest.json",
+    "serve.json": "/InformAl/serve.json",
+    "static/js/2.b908238a.chunk.js.LICENSE.txt": "/InformAl/static/js/2.b908238a.chunk.js.LICENSE.txt",
+    "static/media/12_daniel_can_bc-207.jpg": "/InformAl/static/media/12_daniel_can_bc-207.44511b1d.jpg",
+    "static/media/96d0a32e8ab168eac62d8beee2ffabf7.17.jpg": "/InformAl/static/media/96d0a32e8ab168eac62d8beee2ffabf7.17.4e1d41a6.jpg",
+    "static/media/emo-happiness.jpg": "/InformAl/static/media/emo-happiness.55e876ff.jpg",
+    "static/media/flame.png": "/InformAl/static/media/flame.4b4bfc48.png",
+    "static/media/nature1_gettyimages.jpg": "/InformAl/static/media/nature1_gettyimages.b3298ea1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.ba78eca5.js",
+    "static/js/2.b908238a.chunk.js",
+    "static/js/app.07e5e73b.chunk.js"
+  ]
+}
